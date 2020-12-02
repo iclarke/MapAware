@@ -1,0 +1,9 @@
+C:\Users\SamyDoreau\source\MapAware\Shared\bin\Debug\netstandard2.1\MapAware.Shared.deps.json
+C:\Users\SamyDoreau\source\MapAware\Shared\bin\Debug\netstandard2.1\MapAware.Shared.dll
+C:\Users\SamyDoreau\source\MapAware\Shared\bin\Debug\netstandard2.1\MapAware.Shared.pdb
+C:\Users\SamyDoreau\source\MapAware\Shared\obj\Debug\netstandard2.1\MapAware.Shared.csprojAssemblyReference.cache
+C:\Users\SamyDoreau\source\MapAware\Shared\obj\Debug\netstandard2.1\MapAware.Shared.AssemblyInfoInputs.cache
+C:\Users\SamyDoreau\source\MapAware\Shared\obj\Debug\netstandard2.1\MapAware.Shared.AssemblyInfo.cs
+C:\Users\SamyDoreau\source\MapAware\Shared\obj\Debug\netstandard2.1\MapAware.Shared.csproj.CoreCompileInputs.cache
+C:\Users\SamyDoreau\source\MapAware\Shared\obj\Debug\netstandard2.1\MapAware.Shared.dll
+C:\Users\SamyDoreau\source\MapAware\Shared\obj\Debug\netstandard2.1\MapAware.Shared.pdb
